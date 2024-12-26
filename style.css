@@ -125,7 +125,7 @@ footer {
 }
 
 .hero__section img {
-	filter: brightness(.45) contrast(1.25);
+	filter: brightness(.3) contrast(1.25);
 	border-radius: 30px
 }
 
